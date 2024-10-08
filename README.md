@@ -11,3 +11,4 @@
 
 Убедитесь, что у вас есть права администратора для запуска скрипта.
 
+![image](https://github.com/user-attachments/assets/5f5a605f-3e6d-44c8-8bdf-940f362969c9)
